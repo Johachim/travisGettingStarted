@@ -1,4 +1,4 @@
-https://travis-ci.org/Johachim/travisGettingStarted.svg?branch=master
+[![Build Status](https://travis-ci.org/Johachim/travisGettingStarted.svg?branch=master)
 
 
 Ultra simple Java Project meant for a Travis introduction
